@@ -52,10 +52,10 @@ We have gathered several models that align with the o1-like definition (i.e., mo
 |                              | Sky-T1-32B-Flash (tackle overthinking) (2025/01/23) | [Link](https://github.com/NovaSky-AI/SkyThought) |Yes         |
 |                              | Sky-T1-7B, Sky-T1-mini (2025/02/11)          | [Link](https://github.com/NovaSky-AI/SkyThought) |Yes         |
 | OpenAI o1 -* (OpenAI)        | openai-o1-preview (2024-9-13), o1-mini, o1, o1-pro, o3-mini | [Link](https://platform.openai.com/docs/overview) |
-| Claude (Anthropic)           | claude-3.7-sonnet-20250219                   | [Link](https://docs.anthropic.com/en/docs/about-claude/models/all-models#model-comparison-table) |Yes         |
-|                              | claude-3-5-sonnet-20241022                   | [Link](https://docs.anthropic.com/en/docs/about-claude/models/all-models#model-comparison-table) |Yes         |
-| Gemini (Google)              | gemini-2.5-pro-preview-03-25                 | [Link](https://ai.google.dev/gemini-api/docs/models?hl=zh-cn#gemini-2.0-flash-lite) |Yes         |
-|                              | gemini-2.0-flash                             | [Link](https://ai.google.dev/gemini-api/docs/models?hl=zh-cn#gemini-2.0-flash-lite) |Yes         |
-|                              | gemini-2.0-flash-lite                        | [Link](https://ai.google.dev/gemini-api/docs/models?hl=zh-cn#gemini-2.0-flash-lite) |Yes         |
-| Grok (Twitter)               | Grok-3 (w/o API)                             | [Link](https://docs.x.ai/docs/overview#featured-models) |Yes         |
-| Kimi -* (Moonshot)           | kimi 1.5 (w/o API)                           | [Link](https://platform.moonshot.cn/docs/intro) |Yes         |
+| Claude (Anthropic)           | claude-3.7-sonnet-20250219                   | [Link](https://docs.anthropic.com/en/docs/about-claude/models/all-models#model-comparison-table) |No       |
+|                              | claude-3-5-sonnet-20241022                   | [Link](https://docs.anthropic.com/en/docs/about-claude/models/all-models#model-comparison-table) |No         |
+| Gemini (Google)              | gemini-2.5-pro-preview-03-25                 | [Link](https://ai.google.dev/gemini-api/docs/models?hl=zh-cn#gemini-2.0-flash-lite) |No         |
+|                              | gemini-2.0-flash                             | [Link](https://ai.google.dev/gemini-api/docs/models?hl=zh-cn#gemini-2.0-flash-lite) |No         |
+|                              | gemini-2.0-flash-lite                        | [Link](https://ai.google.dev/gemini-api/docs/models?hl=zh-cn#gemini-2.0-flash-lite) |No         |
+| Grok (Twitter)               | Grok-3 (w/o API)                             | [Link](https://docs.x.ai/docs/overview#featured-models) |No         |
+| Kimi -* (Moonshot)           | kimi 1.5 (w/o API)                           | [Link](https://platform.moonshot.cn/docs/intro) |No         |
