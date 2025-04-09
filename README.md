@@ -1,6 +1,6 @@
 # o1-Like Models and Reasoning Research Repository
 
-![Banner Image]([https://via.placeholder.com/800x200.png?text=Welcome+to+o1-Like+Research](https://github.com/Siki-cloud/Awesome-o1-Models/blob/main/imgs/logo.png))  
+![image]([https://via.placeholder.com/800x200.png?text=Welcome+to+o1-Like+Research](https://github.com/Siki-cloud/Awesome-o1-Models/blob/main/imgs/logo.png))  
 *Figure 1: Welcome to the o1-Like Models and Reasoning Research Repository*
 
 This repository is dedicated to collecting and organizing information about **o1-like models** and avaliable **reasoning datasets**. Our goal is to provide researchers and developers with a centralized platform to explore the design principles, performance, and applications of these models.
