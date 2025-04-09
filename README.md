@@ -9,7 +9,7 @@ This repository is dedicated to collecting and organizing information about **o1
 
 ## Timeline
 Here are key milestones for this repository:
-- **[25/4/9]**  Welcome to see o1-like models research!👀 The repository is officially launched, starting the collection of o1-like model information.
+- **[25/4/9]**  👏Welcome to see o1-like models research! The repository is officially launched, starting the collection of o1-like model information.
 
 ----
 
